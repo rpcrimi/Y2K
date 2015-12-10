@@ -1,5 +1,7 @@
 # Y2K
 
+![](/images/y2k_comic.jpg?raw=true "New Story")
+
 The Year 2000 Problem (Y2K) arose from the method of truncating four-digit years into two digits to save space. Unfortunately, because of this decision, dates ending in the same two digits would be indistinguishable from one another. While this may seem like small problem, it had the potential to be devastating and this caused a huge uproar throughout the world.
 
 Throughout this presentation, we will examine different aspects of the Y2K problem to gain better insight on how to avoid similar situations.
