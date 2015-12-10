@@ -18,3 +18,9 @@ Today's date: 12/11/15
 Person's birthday: 12/11/82
 
 If we subtracted 82 from 15, we would conclude that the person was -67 years old...odd?
+
+## World Reaction
+
+![](/images/y2k_survival?raw=true "New Story")
+
+The Y2K problem became apparent to developers in the early 1990's. Most problems that arose from the Y2K problem were related to large sectors (stock market, insurance). As this problem became more mainstream, people began to realize its serious implications. While most assumed that these problems would be fixed without any side-effects, some began to panic. Some believed that the Y2K problem would cause a global stock market crash and thought the "end of the world" was evident.
