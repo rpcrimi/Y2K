@@ -6,4 +6,4 @@ Looking back on the Y2K problem, it seems obvious that developers should have ac
 
 Looking into the future, we can foresee a few other Y2K-like problems. For example, the Unix systems `time_t` date type calculates the total number of seconds elapsed from January 1st, 1970. For a 32-bit system, this value will not be able to be stored as it will exceed 2^31-1 bits. Another example, while loosely related to computer science, is the fact that at some point, the US will run out of 9-digit social security numbers. It is important to begin to think about how we will transition social security numbers before this time arrives.
 
-Up Next: [Conclusion](https://github.com/rpcrimi/Y2K/blob/master/markdown/looking_forward.md)
+Up Next: [Conclusion](https://github.com/rpcrimi/Y2K/blob/master/markdown/conclusion.md)

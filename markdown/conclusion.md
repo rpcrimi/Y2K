@@ -1,1 +1,3 @@
 # Conclusion
+
+In conclusion, the Y2K problem felt more like a conspiracy than a detrimental problem. While it did cost an estimated 423 billion dollars to fix, there were no major documented market or system crashes. While there are many who believe that the Y2K problem was successfully fixed, there still remain some opposing views on the situation. Some believe that the fixes made were only temporary and at some point, another Y2K scare could occur. Others use the Y2K problem as an metaphor for the impact that the finite nature of computers can have. 
