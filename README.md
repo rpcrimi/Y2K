@@ -10,8 +10,7 @@ Throughout this presentation, we will examine different aspects of the Y2K probl
 
 ## Table of Contents
 1. [Causes](https://github.com/rpcrimi/Y2K/blob/master/markdown/causes.md)
-2. [World Reaction](https://github.com/rpcrimi/Y2K/blob/master/markdown/world_reaction.md)
-3. [Proposed Solutions](https://github.com/rpcrimi/Y2K/blob/master/markdown/proposed_solutions.md)
-4. [Solution](https://github.com/rpcrimi/Y2K/blob/master/markdown/solution.md)
-6. [Looking Forward](https://github.com/rpcrimi/Y2K/blob/master/markdown/looking_forward.md)
-3. [Conclusion](https://github.com/rpcrimi/Y2K/blob/master/markdown/conclusion.md)
+2. [Proposed Solutions](https://github.com/rpcrimi/Y2K/blob/master/markdown/proposed_solutions.md)
+3. [Solution](https://github.com/rpcrimi/Y2K/blob/master/markdown/solution.md)
+4. [Looking Forward](https://github.com/rpcrimi/Y2K/blob/master/markdown/looking_forward.md)
+5. [Conclusion](https://github.com/rpcrimi/Y2K/blob/master/markdown/conclusion.md)

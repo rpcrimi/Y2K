@@ -30,3 +30,5 @@ The Y2K problem became apparent to developers in the early 1990's. Most problems
 ## Documented Bugs
 
 On the last few days of the year 1999, over 10,000 HSBC credit card machines stopped processing transactions. Stores using these malfunctioning machines had to keep paper records of transactions until January 1st, 2001. This was the largest and most influential documented bug caused by the Y2K problem. Fortunately, other problems affected only small subsets of people and were easily fixed.
+
+Up Next: [Proposed Solutions](https://github.com/rpcrimi/Y2K/blob/master/markdown/proposed_solutions.md)

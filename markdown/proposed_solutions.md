@@ -8,3 +8,4 @@ In 1997, the British Standards Institute defined the "Year 2000 Conformity Requi
 
 These rules gave developers an idea of how to fix their legacy code. The first rule ensured that there would be no errors due to the truncation of years. The second rule ensured that date ranges, such as the age calculation in the previous slide, would function correctly whether or not the dates fell in different centuries. The third rule basically removed the truncation of dates from software systems. Finally, the last rule ensured that the year 2000 would be correctly identified as a leap year, which was previously wrongly identified.
 
+Up Next: [Solutions](https://github.com/rpcrimi/Y2K/blob/master/markdown/solutions.md)
