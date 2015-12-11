@@ -6,7 +6,7 @@ While the BSI's "Year 2000 Conformity Requirements" layed out a clear idea of wh
 
 ## Date Expansion
 
-The "purest" solution to the Y2K problem was to implement Date Expansion. In this method, all two-digit dates would be converted to four digits. This meant that all files, programs, and databases must be updated to this new format. Also, in order to retain the software's functionality, massive test suites needed to be implemented. Because of this, Date Expansion was by far the most costly and time consuming approach. However, once converted to the new four-digit format, these software systems needed little to no maintenance to keep them running.
+The most common solution developers used to solve the Y2K problem was to implement Date Expansion. In this method, all two-digit dates would be converted to four digits. This meant that all files, programs, and databases must be updated to this new format. Also, in order to retain the software's functionality, massive test suites needed to be implemented. Because of this, Date Expansion was by far the most costly and time consuming approach. However, once converted to the new four-digit format, these software systems needed little to no maintenance to keep them running.
 
 ## Date Re-Partitioning
 
